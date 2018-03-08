@@ -1,4 +1,0 @@
-### MONITORING ###
-- Prometheus
-- Garfana
-- Zipkins
