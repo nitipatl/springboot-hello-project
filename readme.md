@@ -16,6 +16,11 @@ Lunch application from app image
 docker container run -link mongo1:mongo -p 8080:8080 toystore
 ```
 
+## MONITORING
+- Prometheus
+- Garfana
+- Zipkins
+
 ## Ref
 
 - [Original workshop](https://github.com/up1/course-microservice/tree/master/slide/4days-workshop)
